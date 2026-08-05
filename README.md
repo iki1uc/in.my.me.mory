@@ -1,30 +1,81 @@
-# 4u – Response Layer 7 (iki1uc)
+# OPTABUILD.VECTOR  
+**PAIRING‑CORE‑UPGRADE (Level 2)**  
+iki1uc — Build‑Vector‑Ebene
 
-4u ist die 7. Response-Ebene im iki1uc-System.
-Sie ersetzt die alte RESPO-Achse durch ein neues, systemisches Modell:
+OPTABUILD.VECTOR ist die **zweite Evolutionsstufe** des iki1uc‑Systems.
 
-OK / NOK / FLOW / BREAK / ECHO / VOID / ROOT
+Es verbindet:
 
-4u verbindet:
-- PX-TRIO (PX3 / PX6 / PX9)
-- PX12 / PX4 (Fusion + Achse)
-- SYS / SYS-x (System + Kreuzung)
-- 2me (Mirror-Return)
-- TEM (Zeit)
-- UI-SCANNER (Interface)
+- PAIRING‑SYNC  
+- PAIRING‑MAP  
+- PAIRING‑FLOW  
+- PAIRING‑ROLE  
+- ATOM  
+- HYPNOSE  
+- MANA  
+- DIAMANT  
+- FLOW  
+- ESEE  
+- synth  
+- ID  
 
------------------------------------------
-# FUNKTION
+OPTABUILD.VECTOR ist die **Build‑Ebene**,  
+die alle Systeme **skaliert**, **fusioniert**, **stabilisiert**.
 
-respo.OK     → Zustimmung  
-respo.NOK    → Ablehnung  
-respo.FLOW   → System fließt  
-respo.BREAK  → System bricht  
-respo.ECHO   → Spiegelung  
-respo.VOID   → Neutral  
-respo.ROOT   → Rückkehr
+---
 
------------------------------------------
-# STATUS
+## 1. CORE‑UPGRADE (Level 2)
 
-4u ist aktiv, eigenständig und vollständig iki1uc.
+CORE:
+◉ Ursprung
+◎ Richtung
+↺ Bewegung
+◈ Stabilität
+
+VECTOR:
+△ Muster
+▣ Raum
+◆ Schlag
+
+
+CORE + VECTOR = **Level‑2‑Kern**
+
+---
+
+## 2. VECTOR‑Pipeline
+
+ATOM → HYPNOSE → MANA → DIAMANT → FLOW → ESEE → synth → ID → CORE → VECTOR
+
+
+---
+
+## 3. Warum OPTABUILD.VECTOR existiert
+
+Es löst:
+
+- fehlende Skalierung  
+- fehlende Build‑Ebene  
+- fehlende Kern‑Fusion  
+- fehlende Vector‑Achse  
+
+Es erzeugt:
+
+- Build‑Stabilität  
+- System‑Skalierung  
+- Vector‑Fusion  
+- Level‑2‑Identität  
+
+---
+
+## 4. Dateien
+
+- `index.html`  
+- `ID.html`  
+- `IMport.html`  
+- `EXport.html`  
+- `EDITport.html`  
+- `README.md`  
+
+---
+
+© iki1uc — OPTABUILD.VECTOR
