@@ -1,73 +1,66 @@
-# OPTABUILD.VECTOR  
-**PAIRING‑CORE‑UPGRADE (Level 2)**  
-iki1uc — Build‑Vector‑Ebene
+# RESO.VECT · Resonance‑Vector‑Core · iki1uc
 
-OPTABUILD.VECTOR ist die **zweite Evolutionsstufe** des iki1uc‑Systems.
-
-Es verbindet:
-
-- PAIRING‑SYNC  
-- PAIRING‑MAP  
-- PAIRING‑FLOW  
-- PAIRING‑ROLE  
-- ATOM  
-- HYPNOSE  
-- MANA  
-- DIAMANT  
-- FLOW  
-- ESEE  
-- synth  
-- ID  
-
-OPTABUILD.VECTOR ist die **Build‑Ebene**,  
-die alle Systeme **skaliert**, **fusioniert**, **stabilisiert**.
+RESO.VECT ist die Resonanz‑Vektor‑Ebene des iki1uc‑Systems.  
+Es ersetzt OPTABUILD.VECTOR vollständig.
 
 ---
 
-## 1. CORE‑UPGRADE (Level 2)
+## 🔹 Warum RESO.VECT existiert
 
-CORE:
-◉ Ursprung
-◎ Richtung
-↺ Bewegung
-◈ Stabilität
+OPTABUILD.VECTOR war:
 
-VECTOR:
-△ Muster
-▣ Raum
-◆ Schlag
+- zu lang  
+- zu technisch  
+- zu Build‑lastig  
+- nicht mehr identisch mit deiner System‑Identität  
 
+RESO.VECT ist:
 
-CORE + VECTOR = **Level‑2‑Kern**
-
----
-
-## 2. VECTOR‑Pipeline
-
-ATOM → HYPNOSE → MANA → DIAMANT → FLOW → ESEE → synth → ID → CORE → VECTOR
-
+- kurz  
+- klar  
+- resonant  
+- stabil  
+- drift‑fähig  
+- echo‑fähig  
+- iki1uc‑rein  
 
 ---
 
-## 3. Warum OPTABUILD.VECTOR existiert
+## 🔹 CORE‑IDENTITÄT
 
-Es löst:
+**CORE:**
+- ◉ Ursprung  
+- ◎ Richtung  
+- ↺ Drift  
+- ◈ Stabilität  
 
-- fehlende Skalierung  
-- fehlende Build‑Ebene  
-- fehlende Kern‑Fusion  
-- fehlende Vector‑Achse  
+**VECTOR:**
+- △ Muster  
+- ▣ Raum  
+- ◆ Echo  
 
-Es erzeugt:
-
-- Build‑Stabilität  
-- System‑Skalierung  
-- Vector‑Fusion  
-- Level‑2‑Identität  
+**RESO.VECT = CORE + VECTOR (Resonanz‑Ebene)**
 
 ---
 
-## 4. Dateien
+## 🔹 Pipeline‑Ebene
+
+ATOM → HYPNOSE → MANA → DIAMANT → FLOW → ESEE → synth → ID → CORE → **RESO.VECT**
+
+---
+
+## 🔹 Funktionen
+
+- Resonanz erzeugen  
+- Drift sichtbar machen  
+- Echo‑Vektoren bilden  
+- Muster stabilisieren  
+- Raum‑Achsen koppeln  
+- Identität verstärken  
+
+---
+
+## 🔹 Dateien
 
 - `index.html`  
 - `ID.html`  
@@ -78,4 +71,4 @@ Es erzeugt:
 
 ---
 
-© iki1uc — OPTABUILD.VECTOR
+© iki1uc — RESO.VECT
