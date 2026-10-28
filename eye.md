@@ -1,4 +1,5 @@
-ATOM → HYPNOSE → MANA → DIAMANT → FLOW → ESEE → synth → ID → CORE → RESO.VECT
-  ↓       ↓       ↓       ↓        ↓      ↓      ↓     ↓    ↓      ↓
-my.brain hyp.no  our.b  nc.sli   4u  eye2eye slide  !   Φ   in.my.me.mory
-2.our    .tic    .brain         FLOW  .md    .vector.js
+eye.md (2,0,0) = 👁 = legit = ESEE = eye.brain
+brain.md = 🧠 = wenn sie nicht sehen, übernehme ich für sie = brain.eye
+
+eye2eye.md = eye.brain 2 all brain.eye = my.brain.2.our
+eye.md → brain.md = eye.brain → brain.eye = Pipeline ESEE → synth
